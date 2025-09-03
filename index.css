@@ -203,6 +203,10 @@
         .fade-image.active {
             opacity: 1;
         }
+
+        .hero-content h2 {
+            color: #7d1392;
+        }
         
         /* About Section */
         #about {
@@ -449,4 +453,5 @@
             .hero-image, .about-image, .tech-image {
                 height: 250px;
             }
+
         }
